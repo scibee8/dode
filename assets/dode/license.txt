@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dodecadodecahedron
+* source:	https://sketchfab.com/3d-models/dodecadodecahedron-de5ae82b7f184e8680ae7e595d5b5858
+* author:	PolyhedralExaminer (https://sketchfab.com/PolyhedralExaminer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dodecadodecahedron" (https://sketchfab.com/3d-models/dodecadodecahedron-de5ae82b7f184e8680ae7e595d5b5858) by PolyhedralExaminer (https://sketchfab.com/PolyhedralExaminer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
