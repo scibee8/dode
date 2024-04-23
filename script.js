@@ -8,7 +8,7 @@ window.onload = () => {
             alert(`Got first GPS position: lon ${e.detail.position.longitude} lat ${e.detail.position.latitude}`);
             // Add a box to the north of the initial GPS position
             const entity = document.createElement("a-entity");
-            entity.setAttribute('gltf-model', 'url(./assets/dode/scene.gltf)');
+            entity.setAttribute('gltf-model', 'url(./assets/venus/scene.gltf)');
             entity.setAttribute("scale", {
                 x: 1, 
                 y: 1,
