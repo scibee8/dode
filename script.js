@@ -10,9 +10,9 @@ window.onload = () => {
             const entity = document.createElement("a-entity");
             entity.setAttribute('gltf-model', 'url(./assets/dode/scene.gltf)');
             entity.setAttribute("scale", {
-                x: 0.1, 
-                y: 0.1,
-                z: 0.1
+                x: 1, 
+                y: 1,
+                z: 1
             });
             
             entity.setAttribute('gps-new-entity-place', {
